@@ -1,6 +1,6 @@
 # React Native Firebase Tutorial: Build CRUD Firestore App (2025 Update)
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/5bbcd38080aca7466989441b/react-native-firebase-tutorial-build-crud-firestore-app-2025-update).
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
